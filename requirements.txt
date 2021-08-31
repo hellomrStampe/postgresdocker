@@ -1,0 +1,7 @@
+# use conda install pandas sqlalchemy psycopg2
+# or python -m pip install --user -r requirements
+
+pandas
+sqlalchemy
+psycopg2
+python-dotenv
